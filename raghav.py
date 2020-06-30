@@ -4,7 +4,7 @@ import time
 from pymongo import MongoClient
 
 
-db=MongoClient().screping
+db=MongoClient().scraping
 detail_scr=db["detail_scr"]
 
 
